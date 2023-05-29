@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { createContext, useCallback, useState } from 'react';
-import { Book } from '../Book.types';
+import Book from '../Book.types';
 
 interface ValuesType {
 	books: Book[];

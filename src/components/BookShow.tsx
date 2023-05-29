@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Book } from '../Book.types';
+import Book from '../Book.types';
 import BookEdit from './BookEdit';
 import useBookContext from '../hooks/use-books-context';
 
