@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is exactly the same as the one created in the Modern React with Redux [2023 Update] course with some features I added.
+This project is exactly the same as the one created in the Modern React with Redux [2023 Update] course by 'Stephen Grider' with some features I added.
 
 ## New Features done by me
 
